@@ -1,6 +1,6 @@
 = Robot-Conga
 Robot Conga: A Leader-Follower Walking Approach to Sequential Path Following in Multi-Agent Systems
-:toc:
+
 ---
 
 == 📄 Paper

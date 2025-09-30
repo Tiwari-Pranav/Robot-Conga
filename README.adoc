@@ -23,17 +23,17 @@ Applications include:
 
 ---
 
-== 📂 Codebases
+== 📁 Codebases
 
 The project is split into two main repositories:
 
 - 🐢 **TurtleBot3 (ROS + Gazebo)**  
   ROS-based simulation of the leader–follower approach using TurtleBot3 robots in Gazebo.  
-  👉 https://github.com/Tiwari-Pranav/Robot-conga-turtlebot3-ros-gazebo[Robot-Conga TurtleBot3 ROS/Gazebo Codebase]
+  🌐 https://github.com/Tiwari-Pranav/Robot-conga-turtlebot3-ros-gazebo[Robot-Conga TurtleBot3 ROS/Gazebo Codebase]
 
 - 🐾 **Quadruped (PyBullet)**  
   Physics-based quadruped robot convoy simulation in PyBullet.  
-  👉 https://github.com/Tiwari-Pranav/Robot-conga-quadruped-pybullet[Robot-Conga Quadruped PyBullet Codebase]
+  🌐 https://github.com/Tiwari-Pranav/Robot-conga-quadruped-pybullet[Robot-Conga Quadruped PyBullet Codebase]
 
 ---
 

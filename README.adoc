@@ -40,6 +40,7 @@ The project is split into two main repositories:
 == 🎥 Demo
 
 Link to the full video: [Click here](https://youtu.be/-dh3z6hBwxs)
+
 image::resources/gif/QUADRUPED_CONVOY.gif[Quadruped Leader-Follower Simulation, width=600, align=center]
 
 image::resources/gif/TB3_CONVOY.gif[TurtleBot3 Leader-Follower Simulation, width=600, align=center]

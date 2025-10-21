@@ -39,7 +39,7 @@ The project is split into two main repositories:
 
 == 🎥 Demo
 
-Link to the full video: (https://youtu.be/-dh3z6hBwxs)[Click here]
+Link to the full video: https://youtu.be/-dh3z6hBwxs[Click here]
 
 image::resources/gif/QUADRUPED_CONVOY.gif[Quadruped Leader-Follower Simulation, width=600, align=center]
 
